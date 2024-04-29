@@ -1,1 +1,46 @@
+@CHARSET "UTF-8";
 
+body
+{
+  background-image: linear-gradient(90deg,orange,yellow);
+    color:white;
+    font-size:12pt;
+    font-family:Lexend;
+    text-align:center;
+    text-decoration:none;
+}
+
+h1
+  {
+    color:black;
+    fontsize:30pt;
+    font-family:Impact;
+  }
+
+h2
+{
+  color:black;
+  fontsize:30pt;
+  font-family:Oswald;
+}
+
+a
+{
+  color:blue;
+  fontsize:15pt;
+  text-decoration: none;
+}
+
+.impar 
+{
+  font-size:16pt;
+  font-family:Arial;
+  color:red
+}
+
+.par 
+{
+  font-size:20pt;
+  font-family:Veradana;
+  color:blue;
+}
